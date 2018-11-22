@@ -75,7 +75,7 @@ function dropBomb(radius,pos,entity){
 			}
 		}
 		if(player.score==enemies.length){
-			window.location.replace("victory.html");
+			window.location.replace("https://upliftalter.github.io/victory/");
 		}
 		
 	}, bomb.timeDetonation);

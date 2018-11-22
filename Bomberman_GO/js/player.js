@@ -4,7 +4,7 @@ function looseHealthPlayer(player){
 	player.life=player.life-1;
 	
 	if(player.life<=0){
-		window.location.replace("game_over.html")	
+		window.location.replace("https://upliftalter.github.io/game_over/")	
 	}
 	
 	if(player.id == 'player') {
