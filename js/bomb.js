@@ -72,7 +72,7 @@ function dropBomb(radius,pos,entity){
 				enemies[i].lng+=9999;
 				gainScore(player);
 			if(score==enemies.length){
-				window.location.replace("victory.html")
+				window.location.replace("victory.html");
 			}
 			
 			
