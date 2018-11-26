@@ -57,7 +57,7 @@ function enemyAction(){
 		
 		
 	}
-	setTimeout(enemyAction,1000);
+	setTimeout(enemyAction,2500);
 	
 }
 
